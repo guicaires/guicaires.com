@@ -1,0 +1,18 @@
+body {
+    height: 100vh;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+h1 {
+    font-size: 3em;
+    font-weight: bolder;
+}
